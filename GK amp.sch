@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L GK-amp-rescue:D_Bridge_+A-A U2
+L GK-amp-rescue:D_Bridge_+A-A-GK-amp-rescue U2
 U 1 1 597B8FFE
 P 1900 8550
 F 0 "U2" V 2050 8700 50  0000 L CNN
@@ -346,7 +346,7 @@ F 3 "" H 5400 1600 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L GK-amp-rescue:LM6361 U1
+L GK-amp-rescue:LM6361-GK-amp-rescue U1
 U 1 1 597FEC96
 P 5150 2500
 F 0 "U1" H 5100 2500 50  0000 L CNN
@@ -487,7 +487,7 @@ F 3 "" H 11950 3050 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L GK-amp-rescue:JACK_2P J1
+L GK-amp-rescue:JACK_2P-GK-amp-rescue J1
 U 1 1 598030AE
 P 14250 2000
 F 0 "J1" H 13900 1800 50  0000 C CNN
@@ -498,7 +498,7 @@ F 3 "" H 14250 2000 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L GK-amp-rescue:JACK_2P J2
+L GK-amp-rescue:JACK_2P-GK-amp-rescue J2
 U 1 1 59803298
 P 14250 2850
 F 0 "J2" H 13900 2650 50  0000 C CNN
@@ -509,7 +509,7 @@ F 3 "" H 14250 2850 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L GK-amp-rescue:JACK_2P J3
+L GK-amp-rescue:JACK_2P-GK-amp-rescue J3
 U 1 1 59803385
 P 14250 4650
 F 0 "J3" H 13900 4450 50  0000 C CNN
@@ -656,7 +656,7 @@ F 3 "" H 7200 4300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L GK-amp-rescue:POT R13
+L GK-amp-rescue:POT-GK-amp-rescue R13
 U 1 1 59837BB0
 P 7900 4250
 F 0 "R13" H 7725 4250 50  0000 C CNN
@@ -1671,7 +1671,7 @@ Wire Wire Line
 Wire Wire Line
 	5350 3500 6450 3500
 $Comp
-L GK-amp-rescue:JACK_2P J5
+L GK-amp-rescue:JACK_2P-GK-amp-rescue J5
 U 1 1 5CE59DC4
 P 3500 2300
 F 0 "J5" H 3150 2100 50  0000 C CNN

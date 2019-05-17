@@ -1,0 +1,46 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+TO92
+$EndINDEX
+$MODULE TO92
+Po 0 0 0 15 00000000 00000000 ~~
+Li TO92
+Cd <b>TO-92</b>
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 5.207 -1.143 0.8 0.8 0 0.05 N V 21 "TO92"
+T1 5.207 0.8636 0.64 0.64 0 0.05 N V 21 "VAL**"
+DS -2.1 1.6 2.1 1.6 0.2032 21
+DA -0.0566 -0.0460564 -1.4 -2.3 -980 0.2032 21
+DA 0.1079 -0.0552641 1.4 -2.3 997 0.2032 21
+DA 0 -0.05 1.4 -2.3 -637 0.2032 24
+$PAD
+Sh "1" C 1.6764 1.6764 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 1.27 0
+$EndPAD
+$PAD
+Sh "2" C 1.6764 1.6764 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 0 -1.905
+$EndPAD
+$PAD
+Sh "3" C 1.6764 1.6764 0 0 0
+Dr 0.8128 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -1.27 0
+$EndPAD
+$EndMODULE TO92

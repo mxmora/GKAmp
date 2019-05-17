@@ -1,0 +1,50 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+TO254P1420X457-3N
+$EndINDEX
+$MODULE TO254P1420X457-3N
+Po 0 0 0 15 00000000 00000000 ~~
+Li TO254P1420X457-3N
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 2.35 -7.445 1 1 0 0.05 N V 21 "TO254P1420X457-3N"
+T1 2.985 7.445 1 1 0 0.05 N V 21 "VAL**"
+DS 0 5.15 -4.2 5.15 0.2032 21
+DS -4.2 5.15 -4.2 -5.15 0.2032 21
+DS -4.2 -5.15 0 -5.15 0.2032 21
+DC -6.35 -3.683 -6.223 -3.683 0.127 21
+DS -8 -5.4 8 -5.4 0.05 24
+DS 8 -5.4 8 5.4 0.05 24
+DS 8 5.4 -8 5.4 0.05 24
+DS -8 5.4 -8 -5.4 0.05 24
+$PAD
+Sh "4" R 10.3 7.25 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.1 0
+$EndPAD
+$PAD
+Sh "1" R 1 3 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.2 -2.54
+$EndPAD
+$PAD
+Sh "3" R 1 3 0 0 2700
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.2 2.54
+$EndPAD
+$EndMODULE TO254P1420X457-3N

@@ -1,0 +1,15 @@
+ERC report (Friday, August 04, 2017 'PMt' 03:32:16 PM, Encoding UTF8 )
+
+***** Sheet /
+ErrType(8): Global label not connected to any other global label
+    @ (100.33 mm,60.96 mm): Global label IN is not connected to any other global label.
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (364.49 mm,91.44 mm): Pin 1 (Power input) of component #GND06 is not driven (Net 17).
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (31.75 mm,251.46 mm): Pin 1 (Power output) of component #FLG09 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (16.51 mm,227.33 mm): Pin 2 (Passive) of component T1 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (16.51 mm,217.17 mm): Pin 1 (Passive) of component T1 is unconnected.
+
+ ** ERC messages: 5  Errors 0  Warnings 5

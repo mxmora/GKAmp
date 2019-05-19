@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name GK-amp-rescue)(type Legacy)(uri "${KIPRJMOD}/GK amp-rescue.lib")(options "")(descr ""))
+  (lib (name GK-amp-rescue)(type Legacy)(uri "/Users/mmora/Dev/GKAmp/rescue-backup/GK amp-cache-2019-05-17-14-25-07.lib")(options "")(descr "")(disabled))
   (lib (name TIP31)(type Legacy)(uri ${KIPRJMOD}/Parts/TIP31/TIP31.lib)(options "")(descr ""))
   (lib (name MPSA06)(type Legacy)(uri ${KIPRJMOD}/Parts/MPSA06/MPSA06.lib)(options "")(descr ""))
   (lib (name LF351N)(type Legacy)(uri ${KIPRJMOD}/Parts/LF351N-2/LF351N.lib)(options "")(descr ""))
